@@ -1,0 +1,89 @@
+<span id="link_992">&nbsp;&nbsp;&nbsp;&nbsp;<b>3. Запрещающие знаки</b></span><br/>
+<span id="link_996">&nbsp;&nbsp;&nbsp;&nbsp;Запрещающие знаки вводят или отменяют определенные ограничения движения.</span><br/>
+<span id="link_997">&nbsp;&nbsp;&nbsp;&nbsp;3.1 "Въезд запрещен". Запрещается въезд всех транспортных средств в данном направлении.
+<center><img src="file:///android_asset/sign_3_1.png" /></center></span><br/>
+<span id="link_998">&nbsp;&nbsp;&nbsp;&nbsp;3.2 "Движение запрещено". Запрещается движение всех транспортных средств.
+<center><img src="file:///android_asset/sign_3_2.png" /></center></span><br/>
+<span id="link_999">&nbsp;&nbsp;&nbsp;&nbsp;3.3 "Движение механических транспортных средств запрещено".
+<center><img src="file:///android_asset/sign_3_3.png" /></center></span><br/>
+<span id="link_1000">&nbsp;&nbsp;&nbsp;&nbsp;3.4 "Движение грузовых автомобилей запрещено". Запрещается движение грузовых автомобилей и составов транспортных средств с разрешенной максимальной массой более 3,5 т (если на знаке не указана масса) или с разрешенной максимальной массой более указанной на знаке, а также тракторов и самоходных машин.
+<center><img src="file:///android_asset/sign_3_4.png" /></center></span><br/>
+<span id="link_1001">&nbsp;&nbsp;&nbsp;&nbsp;<a class="link" href="link_1000" onclick="return onLinkClick('link_1001');">Знак 3.4</a> не запрещает движение грузовых автомобилей, предназначенных для перевозки людей.</span><br/>
+<span id="link_1004">&nbsp;&nbsp;&nbsp;&nbsp;3.5 "Движение мотоциклов запрещено".
+<center><img src="file:///android_asset/sign_3_5.png" /></center></span><br/>
+<span id="link_1005">&nbsp;&nbsp;&nbsp;&nbsp;3.6 "Движение тракторов запрещено". Запрещается движение тракторов и самоходных машин.
+<center><img src="file:///android_asset/sign_3_6.png" /></center></span><br/>
+<span id="link_1006">&nbsp;&nbsp;&nbsp;&nbsp;3.7 "Движение с прицепом запрещено". Запрещается движение грузовых автомобилей и тракторов с прицепами любого типа, а также буксировка механических транспортных средств.
+<center><img src="file:///android_asset/sign_3_7.png" /></center></span><br/>
+<span id="link_1007">&nbsp;&nbsp;&nbsp;&nbsp;3.8 "Движение гужевых повозок запрещено". Запрещается движение гужевых повозок (саней), верховых и вьючных животных, а также прогон скота.
+<center><img src="file:///android_asset/sign_3_8.png" /></center></span><br/>
+<span id="link_1008">&nbsp;&nbsp;&nbsp;&nbsp;3.9 "Движение на велосипедах запрещено". Запрещается движение велосипедов и мопедов.
+<center><img src="file:///android_asset/sign_3_9.png" /></center></span><br/>
+<span id="link_1009">&nbsp;&nbsp;&nbsp;&nbsp;3.10 "Движение пешеходов запрещено".
+<center><img src="file:///android_asset/sign_3_10.png" /></center></span><br/>
+<span id="link_1010">&nbsp;&nbsp;&nbsp;&nbsp;3.11 "Ограничение массы". Запрещается движение транспортных средств, в том числе составов транспортных средств, общая фактическая масса которых больше указанной на знаке.
+<center><img src="file:///android_asset/sign_3_11.png" /></center></span><br/>
+<span id="link_1011">&nbsp;&nbsp;&nbsp;&nbsp;3.12 "Ограничение массы, приходящейся на ось транспортного средства". Запрещается движение транспортных средств, у которых фактическая масса, приходящаяся на какую-либо ось, превышает указанную на знаке.
+<center><img src="file:///android_asset/sign_3_12.png" /></center></span><br/>
+<span id="link_1014">&nbsp;&nbsp;&nbsp;&nbsp;3.13 "Ограничение высоты". Запрещается движение транспортных средств, габаритная высота которых (с грузом или без груза) больше указанной на знаке.
+<center><img src="file:///android_asset/sign_3_13.png" /></center></span><br/>
+<span id="link_1015">&nbsp;&nbsp;&nbsp;&nbsp;3.14 "Ограничение ширины". Запрещается движение транспортных средств, габаритная ширина которых (с грузом или без груза) больше указанной на знаке.
+<center><img src="file:///android_asset/sign_3_14.png" /></center></span><br/>
+<span id="link_1016">&nbsp;&nbsp;&nbsp;&nbsp;3.15 "Ограничение длины". Запрещается движение транспортных средств (составов транспортных средств), габаритная длина которых (с грузом или без груза) больше указанной на знаке.
+<center><img src="file:///android_asset/sign_3_15.png" /></center></span><br/>
+<span id="link_1017">&nbsp;&nbsp;&nbsp;&nbsp;3.16 "Ограничение минимальной дистанции". Запрещается движение транспортных средств с дистанцией между ними меньше указанной на знаке.
+<center><img src="file:///android_asset/sign_3_16.png" /></center></span><br/>
+<span id="link_1018">&nbsp;&nbsp;&nbsp;&nbsp;3.17.1 "Таможня". Запрещается проезд без остановки у таможни (контрольного пункта).
+<center><img src="file:///android_asset/sign_3_17_1.png" /></center></span><br/>
+<span id="link_1019">&nbsp;&nbsp;&nbsp;&nbsp;3.17.2 "Опасность". Запрещается дальнейшее движение всех без исключения транспортных средств в связи с дорожно-транспортным происшествием, аварией, пожаром или другой опасностью.
+<center><img src="file:///android_asset/sign_3_17_2.png" /></center></span><br/>
+<span id="link_1022">&nbsp;&nbsp;&nbsp;&nbsp;3.17.3 "Контроль". Запрещается проезд без остановки через контрольные пункты.
+<center><img src="file:///android_asset/sign_3_17_3.png" /></center></span><br/>
+<span id="link_1025">&nbsp;&nbsp;&nbsp;&nbsp;3.18.1 "Поворот направо запрещен".
+<center><img src="file:///android_asset/sign_3_18_1.png" /></center></span><br/>
+<span id="link_1026">&nbsp;&nbsp;&nbsp;&nbsp;3.18.2 "Поворот налево запрещен".
+<center><img src="file:///android_asset/sign_3_18_2.png" /></center></span><br/>
+<span id="link_1027">&nbsp;&nbsp;&nbsp;&nbsp;3.19 "Разворот запрещен".
+<center><img src="file:///android_asset/sign_3_19.png" /></center></span><br/>
+<span id="link_1028">&nbsp;&nbsp;&nbsp;&nbsp;3.20 "Обгон запрещен". Запрещается обгон всех транспортных средств, кроме тихоходных транспортных средств, гужевых повозок, мопедов и двухколесных мотоциклов без коляски.
+<center><img src="file:///android_asset/sign_3_20.png" /></center></span><br/>
+<span id="link_1031">&nbsp;&nbsp;&nbsp;&nbsp;3.21 "Конец зоны запрещения обгона".
+<center><img src="file:///android_asset/sign_3_21.png" /></center></span><br/>
+<span id="link_1032">&nbsp;&nbsp;&nbsp;&nbsp;3.22 "Обгон грузовым автомобилям запрещен". Запрещается грузовым автомобилям с разрешенной максимальной массой более 3,5 т обгон всех транспортных средств.
+<center><img src="file:///android_asset/sign_3_22.png" /></center></span><br/>
+<span id="link_1035">&nbsp;&nbsp;&nbsp;&nbsp;3.23 "Конец зоны запрещения обгона грузовым автомобилям".
+<center><img src="file:///android_asset/sign_3_23.png" /></center></span><br/>
+<span id="link_1036">&nbsp;&nbsp;&nbsp;&nbsp;3.24 "Ограничение максимальной скорости". Запрещается движение со скоростью (км/ч), превышающей указанную на знаке.
+<center><img src="file:///android_asset/sign_3_24.png" /></center></span><br/>
+<span id="link_1037">&nbsp;&nbsp;&nbsp;&nbsp;3.25 "Конец зоны ограничения максимальной скорости".
+<center><img src="file:///android_asset/sign_3_25.png" /></center></span><br/>
+<span id="link_1038">&nbsp;&nbsp;&nbsp;&nbsp;3.26 "Подача звукового сигнала запрещена". Запрещается пользоваться звуковыми сигналами, кроме тех случаев, когда сигнал подается для предотвращения дорожно-транспортного происшествия.
+<center><img src="file:///android_asset/sign_3_26.png" /></center></span><br/>
+<span id="link_1039">&nbsp;&nbsp;&nbsp;&nbsp;3.27 "Остановка запрещена". Запрещаются остановка и стоянка транспортных средств.
+<center><img src="file:///android_asset/sign_3_27.png" /></center></span><br/>
+<span id="link_1040">&nbsp;&nbsp;&nbsp;&nbsp;3.28 "Стоянка запрещена". Запрещается стоянка транспортных средств.
+<center><img src="file:///android_asset/sign_3_28.png" /></center></span><br/>
+<span id="link_1041">&nbsp;&nbsp;&nbsp;&nbsp;3.29 "Стоянка запрещена по нечетным числам месяца".
+<center><img src="file:///android_asset/sign_3_29.png" /></center></span><br/>
+<span id="link_1042">&nbsp;&nbsp;&nbsp;&nbsp;3.30 "Стоянка запрещена по четным числам месяца". При одновременном применении <a class="link" href="link_1041" onclick="return onLinkClick('link_1042');">знаков 3.29</a> и 3.30 на противоположных сторонах проезжей части разрешается стоянка на обеих сторонах проезжей части с 19 часов до 21 часа (время перестановки).
+<center><img src="file:///android_asset/sign_3_30.png" /></center></span><br/>
+<span id="link_1045">&nbsp;&nbsp;&nbsp;&nbsp;3.31 "Конец зоны всех ограничений". Обозначение конца зоны действия одновременно нескольких знаков из следующих: <a class="link" href="link_1017" onclick="return onLinkClick('link_1045');">3.16,</a> <a class="link" href="link_1028" onclick="return onLinkClick('link_1045');">3.20,</a> <a class="link" href="link_1032" onclick="return onLinkClick('link_1045');">3.22,</a> <a class="link" href="link_1036" onclick="return onLinkClick('link_1045');">3.24,</a> <a class="link" href="link_1038" onclick="return onLinkClick('link_1045');">3.26</a> - <a class="link" href="link_1042" onclick="return onLinkClick('link_1045');">3.30.</a>
+<center><img src="file:///android_asset/sign_3_31.png" /></center></span><br/>
+<span id="link_1046">&nbsp;&nbsp;&nbsp;&nbsp;3.32 "Движение транспортных средств с опасными грузами запрещено". Запрещается движение транспортных средств, оборудованных опознавательными <a class="link" href="link_1466" onclick="return onLinkClick('link_1046');">знаками</a> (информационными табличками) "Опасный груз".
+<center><img src="file:///android_asset/sign_3_32.png" /></center></span><br/>
+<span id="link_1049">&nbsp;&nbsp;&nbsp;&nbsp;3.33 "Движение транспортных средств с взрывчатыми и легковоспламеняющимися грузами запрещено". Запрещается движение транспортных средств, осуществляющих перевозку взрывчатых веществ и изделий, а также других опасных грузов, подлежащих маркировке как легковоспламеняющиеся, кроме случаев перевозки указанных опасных веществ и изделий в ограниченном количестве, определяемом в порядке, установленном специальными правилами перевозки.
+<center><img src="file:///android_asset/sign_3_33.png" /></center></span><br/>
+<span id="link_1052">&nbsp;&nbsp;&nbsp;&nbsp;<a class="link" href="link_998" onclick="return onLinkClick('link_1052');">Знаки 3.2</a> - <a class="link" href="link_1008" onclick="return onLinkClick('link_1052');">3.9,</a> <a class="link" href="link_1046" onclick="return onLinkClick('link_1052');">3.32</a> и <a class="link" href="link_1049" onclick="return onLinkClick('link_1052');">3.33</a> запрещают движение соответствующих видов транспортных средств в обоих направлениях.</span><br/>
+<span id="link_1053">&nbsp;&nbsp;&nbsp;&nbsp;Действие знаков не распространяется:</span><br/>
+<span id="link_1054">&nbsp;&nbsp;&nbsp;&nbsp;<a class="link" href="link_997" onclick="return onLinkClick('link_1054');">3.1</a> - <a class="link" href="link_999" onclick="return onLinkClick('link_1054');">3.3,</a> <a class="link" href="link_1025" onclick="return onLinkClick('link_1054');">3.18.1,</a> <a class="link" href="link_1026" onclick="return onLinkClick('link_1054');">3.18.2,</a> <a class="link" href="link_1027" onclick="return onLinkClick('link_1054');">3.19,</a> <a class="link" href="link_1039" onclick="return onLinkClick('link_1054');">3.27</a> - на маршрутные транспортные средства;</span><br/>
+<span id="link_1055">&nbsp;&nbsp;&nbsp;&nbsp;<a class="link" href="link_998" onclick="return onLinkClick('link_1055');">3.2</a> - <a class="link" href="link_1007" onclick="return onLinkClick('link_1055');">3.8</a> - на транспортные средства организаций федеральной почтовой связи, имеющие на боковой поверхности белую диагональную полосу на синем фоне, и транспортные средства, которые обслуживают предприятия, находящиеся в обозначенной зоне, а также обслуживают граждан или принадлежат гражданам, проживающим или работающим в обозначенной зоне. В этих случаях транспортные средства должны въезжать в обозначенную зону и выезжать из нее на ближайшем к месту назначения перекрестке;</span><br/>
+<span id="link_1058">&nbsp;&nbsp;&nbsp;&nbsp;<a class="link" href="link_1040" onclick="return onLinkClick('link_1058');">3.28</a> - <a class="link" href="link_1042" onclick="return onLinkClick('link_1058');">3.30</a> - на транспортные средства организаций федеральной почтовой связи, имеющие на боковой поверхности белую диагональную полосу на синем фоне, а также на такси с включенным таксометром;</span><br/>
+<span id="link_1061">&nbsp;&nbsp;&nbsp;&nbsp;<a class="link" href="link_998" onclick="return onLinkClick('link_1061');">3.2,</a> <a class="link" href="link_999" onclick="return onLinkClick('link_1061');">3.3,</a> <a class="link" href="link_1040" onclick="return onLinkClick('link_1061');">3.28</a> - <a class="link" href="link_1042" onclick="return onLinkClick('link_1061');">3.30</a> - на транспортные средства, управляемые инвалидами I и II групп, перевозящие таких инвалидов или детей-инвалидов.</span><br/>
+<span id="link_1064">&nbsp;&nbsp;&nbsp;&nbsp;Действие <a class="link" href="link_1025" onclick="return onLinkClick('link_1064');">знаков 3.18.1,</a> <a class="link" href="link_1026" onclick="return onLinkClick('link_1064');">3.18.2</a> распространяется на пересечение проезжих частей, перед которыми установлен знак.</span><br/>
+<span id="link_1065">&nbsp;&nbsp;&nbsp;&nbsp;Зона действия <a class="link" href="link_1017" onclick="return onLinkClick('link_1065');">знаков 3.16,</a> <a class="link" href="link_1028" onclick="return onLinkClick('link_1065');">3.20,</a> <a class="link" href="link_1032" onclick="return onLinkClick('link_1065');">3.22,</a> <a class="link" href="link_1036" onclick="return onLinkClick('link_1065');">3.24,</a> <a class="link" href="link_1038" onclick="return onLinkClick('link_1065');">3.26</a> - <a class="link" href="link_1042" onclick="return onLinkClick('link_1065');">3.30</a> распространяется от места установки знака до ближайшего перекрестка за ним, а в населенных пунктах при отсутствии перекрестка - до конца населенного пункта. Действие знаков не прерывается в местах выезда с прилегающих к дороге территорий и в местах пересечения (примыкания) с полевыми, лесными и другими второстепенными дорогами, перед которыми не установлены соответствующие знаки.</span><br/>
+<span id="link_1066">&nbsp;&nbsp;&nbsp;&nbsp;Действие <a class="link" href="link_1036" onclick="return onLinkClick('link_1066');">знака 3.24,</a> установленного перед населенным пунктом, обозначенным <a class="link" href="link_1160" onclick="return onLinkClick('link_1066');">знаком 5.23.1</a> или <a class="link" href="link_1160" onclick="return onLinkClick('link_1066');">5.23.2,</a> распространяется до этого знака.</span><br/>
+<span id="link_1069">&nbsp;&nbsp;&nbsp;&nbsp;Зона действия знаков может быть уменьшена:</span><br/>
+<span id="link_1070">&nbsp;&nbsp;&nbsp;&nbsp;для <a class="link" href="link_1017" onclick="return onLinkClick('link_1070');">знаков 3.16</a> и <a class="link" href="link_1038" onclick="return onLinkClick('link_1070');">3.26</a> применением <a class="link" href="link_1254" onclick="return onLinkClick('link_1070');">таблички 8.2.1;</a></span><br/>
+<span id="link_1073">&nbsp;&nbsp;&nbsp;&nbsp;для <a class="link" href="link_1028" onclick="return onLinkClick('link_1073');">знаков 3.20,</a> <a class="link" href="link_1032" onclick="return onLinkClick('link_1073');">3.22,</a> <a class="link" href="link_1036" onclick="return onLinkClick('link_1073');">3.24</a> установкой в конце зоны их действия соответственно <a class="link" href="link_1031" onclick="return onLinkClick('link_1073');">знаков 3.21,</a> <a class="link" href="link_1035" onclick="return onLinkClick('link_1073');">3.23,</a> <a class="link" href="link_1037" onclick="return onLinkClick('link_1073');">3.25</a> или применением <a class="link" href="link_1254" onclick="return onLinkClick('link_1073');">таблички 8.2.1.</a> Зона действия <a class="link" href="link_1036" onclick="return onLinkClick('link_1073');">знака 3.24</a> может быть уменьшена установкой <a class="link" href="link_1036" onclick="return onLinkClick('link_1073');">знака 3.24</a> с другим значением максимальной скорости движения;</span><br/>
+<span id="link_1076">&nbsp;&nbsp;&nbsp;&nbsp;для <a class="link" href="link_1039" onclick="return onLinkClick('link_1076');">знаков 3.27</a> - <a class="link" href="link_1042" onclick="return onLinkClick('link_1076');">3.30</a> установкой в конце зоны их действия повторных <a class="link" href="link_1039" onclick="return onLinkClick('link_1076');">знаков 3.27</a> - <a class="link" href="link_1042" onclick="return onLinkClick('link_1076');">3.30</a> с <a class="link" href="link_1257" onclick="return onLinkClick('link_1076');">табличкой 8.2.3</a> или применением <a class="link" href="link_1257" onclick="return onLinkClick('link_1076');">таблички 8.2.2.</a> <a class="link" href="link_1039" onclick="return onLinkClick('link_1076');">Знак 3.27</a> может быть применен совместно с <a class="link" href="link_1325" onclick="return onLinkClick('link_1076');">разметкой 1.4,</a> а <a class="link" href="link_1040" onclick="return onLinkClick('link_1076');">знак 3.28</a> - с разметкой <a class="link" href="link_1331" onclick="return onLinkClick('link_1076');">1.10,</a> при этом зона действия знаков определяется протяженностью линии разметки.</span><br/>
+<span id="link_1079">&nbsp;&nbsp;&nbsp;&nbsp;Действие <a class="link" href="link_1009" onclick="return onLinkClick('link_1079');">знаков 3.10,</a> <a class="link" href="link_1039" onclick="return onLinkClick('link_1079');">3.27</a> - <a class="link" href="link_1042" onclick="return onLinkClick('link_1079');">3.30</a> распространяется только на ту сторону дороги, на которой они установлены.</span><br/>

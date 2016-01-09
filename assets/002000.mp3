@@ -1,0 +1,69 @@
+<span id="link_1301">&nbsp;&nbsp;&nbsp;&nbsp;<b>1. Горизонтальная разметка</b></span><br/>
+<span id="link_1305">&nbsp;&nbsp;&nbsp;&nbsp;Горизонтальная разметка (линии, стрелы, надписи и другие обозначения на проезжей части) устанавливает определенные режимы и порядок движения.</span><br/>
+<span id="link_1306">&nbsp;&nbsp;&nbsp;&nbsp;Горизонтальная разметка может быть постоянной или временной. Постоянная разметка имеет белый цвет, кроме линий <a class="link" href="link_1325" onclick="return onLinkClick('link_1306');">1.4,</a> <a class="link" href="link_1331" onclick="return onLinkClick('link_1306');">1.10</a> и <a class="link" href="link_1342" onclick="return onLinkClick('link_1306');">1.17</a> желтого цвета, временная - оранжевый цвет</span><br/>
+<span id="link_1309">&nbsp;&nbsp;&nbsp;&nbsp;Горизонтальная разметка:</span><br/>
+<span id="link_1310">&nbsp;&nbsp;&nbsp;&nbsp;1.1 <a href="note_1310" class="note">&lt;*&gt;</a> - разделяет транспортные потоки противоположных направлений и обозначает границы полос движения в опасных местах на дорогах; обозначает границы проезжей части, на которые въезд запрещен; обозначает границы стояночных мест транспортных средств;
+<center><img src="file:///android_asset/marking_1_1.png" /></center></span><br/>
+<span id="link_1318">&nbsp;&nbsp;&nbsp;&nbsp;1.2.1 (сплошная линия) - обозначает край проезжей части;
+<center><img src="file:///android_asset/marking_1_2_1.png" /></center></span><br/>
+<span id="link_1321">&nbsp;&nbsp;&nbsp;&nbsp;1.2.2 (прерывистая линия, у которой длина штрихов в 2 раза короче промежутков между ними) - обозначает край проезжей части на двухполосных дорогах;
+<center><img src="file:///android_asset/marking_1_2_2.png" /></center></span><br/>
+<span id="link_1324">&nbsp;&nbsp;&nbsp;&nbsp;1.3 - разделяет транспортные потоки противоположных направлений на дорогах, имеющих четыре полосы движения и более;
+<center><img src="file:///android_asset/marking_1_3.png" /></center></span><br/>
+<span id="link_1325">&nbsp;&nbsp;&nbsp;&nbsp;1.4 - обозначает места, где запрещена остановка. Применяется самостоятельно или в сочетании со знаком <a class="link" href="link_1039" onclick="return onLinkClick('link_1325');">3.27</a> и наносится у края проезжей части или по верху бордюра;
+<center><img src="file:///android_asset/marking_1_4.png" /></center></span><br/>
+<span id="link_1326">&nbsp;&nbsp;&nbsp;&nbsp;1.5 - разделяет транспортные потоки противоположных направлений на дорогах, имеющих две или три полосы; обозначает границы полос движения при наличии двух и более полос, предназначенных для движения в одном направлении;
+<center><img src="file:///android_asset/marking_1_5.png" /></center></span><br/>
+<span id="link_1327">&nbsp;&nbsp;&nbsp;&nbsp;1.6 (линия приближения - прерывистая линия, у которой длина штрихов в 3 раза превышает промежутки между ними) - предупреждает о приближении к разметке <a class="link" href="link_1310" onclick="return onLinkClick('link_1327');">1.1</a> или <a class="link" href="link_1332" onclick="return onLinkClick('link_1327');">1.11,</a> которая разделяет транспортные потоки противоположных или попутных направлений;
+<center><img src="file:///android_asset/marking_1_6.png" /></center></span><br/>
+<span id="link_1328">&nbsp;&nbsp;&nbsp;&nbsp;1.7 (прерывистая линия с короткими штрихами и равными им промежутками) - обозначает полосы движения в пределах перекрестка;
+<center><img src="file:///android_asset/marking_1_7.png" /></center></span><br/>
+<span id="link_1329">&nbsp;&nbsp;&nbsp;&nbsp;1.8 (широкая прерывистая линия) - обозначает границу между полосой разгона или торможения и основной полосой проезжей части (на перекрестках, пересечениях дорог на разных уровнях, в зоне автобусных остановок и тому подобное);
+<center><img src="file:///android_asset/marking_1_8.png" /></center></span><br/>
+<span id="link_1330">&nbsp;&nbsp;&nbsp;&nbsp;1.9 - обозначает границы полос движения, на которых осуществляется реверсивное регулирование; разделяет транспортные потоки противоположных направлений (при выключенных реверсивных светофорах) на дорогах, где осуществляется реверсивное регулирование;
+<center><img src="file:///android_asset/marking_1_9.png" /></center></span><br/>
+<span id="link_1331">&nbsp;&nbsp;&nbsp;&nbsp;1.10 - обозначает места, где запрещена стоянка. Применяется самостоятельно или в сочетании со знаком <a class="link" href="link_1040" onclick="return onLinkClick('link_1331');">3.28</a> и наносится у края проезжей части или по верху бордюра;
+<center><img src="file:///android_asset/marking_1_10.png" /></center></span><br/>
+<span id="link_1332">&nbsp;&nbsp;&nbsp;&nbsp;1.11 - разделяет транспортные потоки противоположных или попутных направлений на участках дорог, где перестроение разрешено только из одной полосы; обозначает места, предназначенные для разворота, въезда и выезда со стояночных площадок и тому подобного, где движение разрешено только в одну сторону;
+<center><img src="file:///android_asset/marking_1_11.png" /></center></span><br/>
+<span id="link_1333">&nbsp;&nbsp;&nbsp;&nbsp;1.12 (стоп-линия) - указывает место, где водитель должен остановиться при наличии знака <a class="link" href="link_985" onclick="return onLinkClick('link_1333');">2.5</a> или при запрещающем сигнале светофора (регулировщика);
+<center><img src="file:///android_asset/marking_1_12.png" /></center></span><br/>
+<span id="link_1334">&nbsp;&nbsp;&nbsp;&nbsp;1.13 - указывает место, где водитель должен при необходимости остановиться, уступая дорогу транспортным средствам, движущимся по пересекаемой дороге;
+<center><img src="file:///android_asset/marking_1_13.png" /></center></span><br/>
+<span id="link_1335">&nbsp;&nbsp;&nbsp;&nbsp;1.14.1, 1.14.2 ("зебра") - обозначает пешеходный переход; стрелы разметки 1.14.2 указывают направление движения пешеходов;
+<center><img src="file:///android_asset/marking_1_14_1.png" />
+<img src="file:///android_asset/marking_1_14_2.png" /></center></span><br/>
+
+<span id="link_1340">&nbsp;&nbsp;&nbsp;&nbsp;1.15 - обозначает место, где велосипедная дорожка пересекает проезжую часть;
+<center><img src="file:///android_asset/marking_1_15.png" /></center></span><br/>
+<span id="link_1341">&nbsp;&nbsp;&nbsp;&nbsp;1.16.1 - 1.16.3 - обозначает направляющие островки в местах разделения или слияния транспортных потоков;
+<center><img src="file:///android_asset/marking_1_16_1.png" />
+<img src="file:///android_asset/marking_1_16_2.png" />
+<img src="file:///android_asset/marking_1_16_3.png" /></center></span><br/>
+<span id="link_1342">&nbsp;&nbsp;&nbsp;&nbsp;1.17 - обозначает места остановок маршрутных транспортных средств и стоянки такси;
+<center><img src="file:///android_asset/marking_1_17.png" /></center></span><br/>
+<span id="link_1345">&nbsp;&nbsp;&nbsp;&nbsp;1.18 - указывает разрешенные на перекрестке направления движения по полосам. Применяется самостоятельно или в сочетании со <a class="link" href="link_1137" onclick="return onLinkClick('link_1345');">знаками 5.15.1,</a> <a class="link" href="link_1138" onclick="return onLinkClick('link_1345');">5.15.2;</a> разметка с изображением тупика наносится для указания того, что поворот на ближайшую проезжую часть запрещен; разметка, разрешающая поворот налево из крайней левой полосы, разрешает и разворот;
+<center><img src="file:///android_asset/marking_1_18.png" /></center></span><br/>
+<span id="link_1348">&nbsp;&nbsp;&nbsp;&nbsp;1.19 - предупреждает о приближении к сужению проезжей части (участку, где уменьшается количество полос движения в данном направлении) или к линиям разметки <a class="link" href="link_1310" onclick="return onLinkClick('link_1348');">1.1</a> или <a class="link" href="link_1332" onclick="return onLinkClick('link_1348');">1.11,</a> разделяющим транспортные потоки противоположных направлений. В первом случае разметка 1.19 может применяться в сочетании со <a class="link" href="link_907" onclick="return onLinkClick('link_1348');">знаками 1.20.1</a> - <a class="link" href="link_907" onclick="return onLinkClick('link_1348');">1.20.3;</a>
+<center><img src="file:///android_asset/marking_1_19.png" /></center></span><br/>
+<span id="link_1351">&nbsp;&nbsp;&nbsp;&nbsp;1.20 - предупреждает о приближении к разметке <a class="link" href="link_1334" onclick="return onLinkClick('link_1351');">1.13;</a>
+<center><img src="file:///android_asset/marking_1_20.png" /></center></span><br/>
+<span id="link_1352">&nbsp;&nbsp;&nbsp;&nbsp;1.21 (надпись "СТОП") - предупреждает о приближении к разметке <a class="link" href="link_1333" onclick="return onLinkClick('link_1352');">1.12,</a> когда она применяется в сочетании со знаком <a class="link" href="link_985" onclick="return onLinkClick('link_1352');">2.5;</a>
+<center><img src="file:///android_asset/marking_1_21.png" /></center></span><br/>
+<span id="link_1353">&nbsp;&nbsp;&nbsp;&nbsp;1.22 - указывает номер дороги (маршрута);
+<center><img src="file:///android_asset/marking_1_22.png" /></center></span><br/>
+<span id="link_1354">&nbsp;&nbsp;&nbsp;&nbsp;1.23 - обозначает специальную полосу для маршрутных транспортных средств;
+<center><img src="file:///android_asset/marking_1_23.png" /></center></span><br/>
+<span id="link_1355">&nbsp;&nbsp;&nbsp;&nbsp;1.24.1 - 1.24.3 - дублирует соответствующие дорожные знаки и применяется совместно с ними;
+<center><img src="file:///android_asset/marking_1_24_1.png" />
+<img src="file:///android_asset/marking_1_24_2.png" />
+<img src="file:///android_asset/marking_1_24_3.png" /></center></span><br/>
+<span id="link_1357">&nbsp;&nbsp;&nbsp;&nbsp;1.25 - обозначает искусственную неровность на проезжей части.
+<center><img src="file:///android_asset/marking_1_25.png" /></center></span><br/>
+<span id="link_1359">&nbsp;&nbsp;&nbsp;&nbsp;Линии <a class="link" href="link_1310" onclick="return onLinkClick('link_1359');">1.1,</a> <a class="link" href="link_1318" onclick="return onLinkClick('link_1359');">1.2.1</a> и <a class="link" href="link_1324" onclick="return onLinkClick('link_1359');">1.3</a> пересекать запрещается.</span><br/>
+<span id="link_1362">&nbsp;&nbsp;&nbsp;&nbsp;Линию 1.2.1 допускается пересекать для остановки транспортного средства на обочине и при выезде с нее в местах, где разрешена остановка или стоянка.</span><br/>
+<span id="link_1365">&nbsp;&nbsp;&nbsp;&nbsp;Линии <a class="link" href="link_1321" onclick="return onLinkClick('link_1365');">1.2.2,</a> <a class="link" href="link_1326" onclick="return onLinkClick('link_1365');">1.5</a> - <a class="link" href="link_1329" onclick="return onLinkClick('link_1365');">1.8</a> пересекать разрешается с любой стороны.</span><br/>
+<span id="link_1368">&nbsp;&nbsp;&nbsp;&nbsp;Линию <a class="link" href="link_1330" onclick="return onLinkClick('link_1368');">1.9</a> при отсутствии реверсивных светофоров или когда они отключены разрешается пересекать, если она расположена справа от водителя; при включенных реверсивных светофорах - с любой стороны, если она разделяет полосы, по которым движение разрешено в одном направлении. При отключении реверсивных светофоров водитель должен немедленно перестроиться вправо за линию <a class="link" href="link_1330" onclick="return onLinkClick('link_1368');">разметки 1.9.</a></span><br/>
+<span id="link_1369">&nbsp;&nbsp;&nbsp;&nbsp;Линию <a class="link" href="link_1330" onclick="return onLinkClick('link_1369');">1.9,</a> разделяющую транспортные потоки противоположных направлений, при выключенных реверсивных светофорах пересекать запрещается.</span><br/>
+<span id="link_1370">&nbsp;&nbsp;&nbsp;&nbsp;Линию <a class="link" href="link_1332" onclick="return onLinkClick('link_1370');">1.11</a> разрешается пересекать со стороны прерывистой, а также и со стороны сплошной, но только при завершении обгона или объезда.</span><br/>
+<span id="link_1371">&nbsp;&nbsp;&nbsp;&nbsp;В случаях когда значения дорожных знаков, в том числе временных (размещаемых на переносной опоре), и линий горизонтальной разметки противоречат друг другу либо разметка недостаточно различима, водители должны руководствоваться дорожными знаками. В случаях, когда линии временной разметки и линии постоянной разметки противоречат друг другу, водители должны руководствоваться линиями временной разметки.</span><br/>
